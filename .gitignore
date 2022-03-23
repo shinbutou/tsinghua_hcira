@@ -4,5 +4,7 @@
 # participant data
 /Animation/data
 
-# output
+# outputs
 text.txt
+text2.txt
+document.docx
