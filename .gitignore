@@ -1,10 +1,13 @@
 # macOS files
 *.DS_Store
 
-# participant data
+# animation - participant data
 /Animation/data
 
-# outputs
+# animation - outputs
 text.txt
 text2.txt
 document.docx
+
+# earbuds - participant data
+/Earbuds/data
