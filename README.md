@@ -1,3 +1,3 @@
 # ReadMe
 
-The repository is dedicated to the projects
+The repository is dedicated to the projects as research assistant
