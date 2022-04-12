@@ -9,5 +9,8 @@ text.txt
 text2.txt
 document.docx
 
-# earbuds - participant data
+# earbuds - participants data
 /Earbuds/data
+
+# earbuds - spss
+/Earbuds/anova_reference
