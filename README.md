@@ -6,4 +6,4 @@ The repository is dedicated to the projects as research assistant in the lab IHF
 My main responsibilities includes preparing documentations, data analysis and visualization, and conducting experiments.
 
 ## Earbuds Comfort
-My main responsibilities includes data analysis, equipment acquisition and maintenance. Data analysis with ANOVA
+My main responsibilities includes data analysis, equipment acquisition and maintenance, conducting experiments. Data analysis with ANOVA
