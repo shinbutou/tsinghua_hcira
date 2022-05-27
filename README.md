@@ -1,6 +1,6 @@
 # ReadMe
 
-The repository is dedicated to the projects as research assistant in the lab IHFE of my advisor, including the following two projects:
+The repository is dedicated to the projects as research assistant in the lab IHFE, including the following two projects:
 
 ## Mobile Animation
 My main responsibilities includes preparing documentations, data analysis and visualization, and conducting experiments.
