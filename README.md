@@ -6,4 +6,4 @@ The repository is dedicated to the projects as research assistant in the lab IHF
 The project aimed to make improvements to the operating system animation on mobile phone. My main responsibilities includes preparing documentations, data analysis and visualization, and conducting experiments.
 
 ## Earbuds Comfort
-The project aimed to improve the comfort. My main responsibilities includes data analysis and visualization, equipment acquisition and maintenance, designing and conducting experiments. Data analysis with ANOVA
+The project aimed to improve the comfort of wireless earbuds. My main responsibilities includes data analysis and visualization, equipment acquisition and maintenance, designing and conducting experiments. Data analysis with ANOVA
